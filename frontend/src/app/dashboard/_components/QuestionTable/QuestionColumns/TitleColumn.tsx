@@ -14,7 +14,11 @@ const TitleColumn: ColumnDef<Question> = {
   accessorKey: "title",
   header: ({ column }) => {
     return (
-      <DataTableColumnHeader column={column} title="Title" className="w-1/2" />
+      <DataTableColumnHeader
+        column={column}
+        title="Title"
+        className="w-1/2 px-4"
+      />
     );
   },
   cell: ({ row }) => {
@@ -23,7 +27,7 @@ const TitleColumn: ColumnDef<Question> = {
     return (
       <Dialog>
         <DialogTrigger asChild className="hover:cursor-pointer">
-          <p>{question.title}</p>
+          <p className="px-4">{question.title}</p>
         </DialogTrigger>
         <DialogContent className="sm:max-w-[425px]">
           <DialogHeader>
