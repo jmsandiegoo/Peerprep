@@ -39,11 +39,10 @@ Context API\
 Yjs
 
 **Backend:**\
-NestJS\
+NestJS with Microservice Architecture\
 Swagger\
 JWT Authentication\
 Redis\
-Microservice Architecture\
 MongoDB
 
 **Tools**\
