@@ -43,7 +43,8 @@ NestJS with Microservice Architecture\
 Swagger\
 JWT Authentication\
 Redis\
-MongoDB
+MongoDB\
+Yjs
 
 **Tools**\
 Docker\
