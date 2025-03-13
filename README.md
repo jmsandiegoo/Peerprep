@@ -11,8 +11,8 @@ Peerprep (Frontend & Backend)
 - [About The App](#about-the-app)
 - [Screenshots](#screenshots)
 - [Technologies](#technologies)
-- [Setup](#setup)
-- [Status / Features](#status)
+  <!-- - [Setup](#setup) -->
+  <!-- - [Status / Features](#status) -->
 - [Credits](#credits)
 - [License](#license)
 
